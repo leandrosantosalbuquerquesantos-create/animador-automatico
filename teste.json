@@ -1,6 +1,6 @@
 {
- "quando": "2026-11-21T20:41:25",
+ "quando": "2026-11-21T20:47:56",
  "google": "ok",
- "cloudflare": "erro: 'latin-1' codec can't encode characters in position 1069-1070: ordinal not in range(256)",
+ "cloudflare": "ok",
  "instagram": "faltando"
 }
